@@ -1,0 +1,51 @@
+body {
+
+  background-color: lightgray;
+
+}
+
+.navbar {
+  display: flex;
+  background-color: black;
+
+}
+
+.navbar a {
+  color: yellow;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: right;
+position: relative;
+left: 70%;
+}
+
+
+.navbar a:hover {
+  background-color: white;
+color: black;
+}
+
+h2{
+
+font-size: 30px;
+padding: 10px;
+border: solid;
+}
+h1{
+color: yellow;
+font-size: 20px;
+}
+
+.row {
+display: flex;
+
+}
+
+
+th{
+border: double;
+font-size: 50px;
+ padding: 80px 145px;
+width: 50px;
+
+}
